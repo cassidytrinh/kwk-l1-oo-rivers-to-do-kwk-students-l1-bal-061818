@@ -58,11 +58,11 @@ seine.countries = ["France"]
 seine.discharge = 17660
 yangtze = River.new("Yangtze")
 yangtze.length = 3915
-yangtze.countries =
-yangtze.discharge =
+yangtze.countries = ["China"]
+yangtze.discharge = 1065000
 yangtze.flood
 euphrates = River.new("Euphrates")
-euphrates.length =
-euphrates.countries =
-euphrates.discharge =
+euphrates.length = 1740
+euphrates.countries = ["Turkey", "Syria", "Iraq"]
+euphrates.discharge = 12570
 euphrates.dry_up
